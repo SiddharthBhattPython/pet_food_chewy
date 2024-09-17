@@ -1,6 +1,6 @@
 import streamlit as st
 
-from streamlit-aggrid import *
+from st_aggrid import *
 
 from IPython.display import HTML, display
 import re
