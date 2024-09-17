@@ -36,7 +36,7 @@ def data_read(file):
 
 
 main_data = data_read(
-    "D:\\Pet Food Reader\\Streamlit\\Data\\Streamlit\\Data\\data_for_streamlit_reduced_20_07_23.csv")
+    "data_for_streamlit_reduced_20_07_23.csv")
 
 
 
