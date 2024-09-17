@@ -56,7 +56,7 @@ The app does mainly two things:
 1. Categorizes ingredients entered by the user of any pet food in simple categories
 2. Calculates the environmental impact of the food based on different parameters.
 
-You just have to enter the ingredients in the Ingredient Analyzer section along with the type of food (dry or wet)""")
+You just have to enter the ingredients in the Ingredient Analyzer section along with the type of food (dry or wet). Visit [chewy](https://www.chewy.com/), pick a food you like, go to its ingredients and paste them.""")
 
   
 st.markdown("")
