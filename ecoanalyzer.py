@@ -36,8 +36,8 @@ def data_read(file):
     return pd.read_csv(file, sep='|', encoding='utf-8')
 
 
-main_data = data_read(
-    "D:\\Pet Food Reader\\Streamlit\\Data\\Streamlit\\Data\\data_for_streamlit_reduced_20_07_23.csv")
+# main_data = data_read(
+#     "D:\\Pet Food Reader\\Streamlit\\Data\\Streamlit\\Data\\data_for_streamlit_reduced_20_07_23.csv")
 
 
 
