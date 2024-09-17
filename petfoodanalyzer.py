@@ -1,4 +1,7 @@
 import streamlit as st
+
+from st_aggrid import AgGrid
+
 from st_aggrid import *
 
 from IPython.display import HTML, display
